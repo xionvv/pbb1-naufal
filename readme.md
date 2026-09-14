@@ -1,3 +1,2 @@
-halo im xioon im here to learning how to use git
 # TES TING HOW TO LEARNING 
-  Testing how to
+  hi im xion im here to testing and learning how to use git
