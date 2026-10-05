@@ -1,0 +1,10 @@
+void sapa(String nama) {
+  print("Halo,$nama!");
+}
+
+void main() {
+  sapa("Andi");
+  sapa("Budi");
+  sapa("Jamal");
+  sapa("Brodi");
+}

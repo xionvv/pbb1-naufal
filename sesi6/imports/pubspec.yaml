@@ -1,0 +1,7 @@
+name: sesi6
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  intl: ^0.20.2
